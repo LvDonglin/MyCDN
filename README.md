@@ -1,0 +1,2 @@
+# MyCDN
+My picture cdn
